@@ -1,0 +1,155 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.judul {
+    color: white;
+    background-image: url(img/smk-wikrama-bogor\ \(1\).jpg);
+    background-size: cover;
+    padding: 100px;
+    font-size: 70px;
+}
+
+.judull{
+    color: white;
+    background-image: url(img/22.\ kantinn.jpg);
+    background-size: cover;
+    padding: 100px;
+    font-size: 70px;
+}
+
+.judul-per{
+    color: white;
+    background-image: url(img/wikrama-perpus-online.jpg);
+    background-size: cover;
+    padding: 100px;
+    font-size: 70px;
+}
+
+.judul-gizi{
+    color: white;
+    background-image: url(img/WhatsApp-Image-2022-01-18-at-14.42.44-1-1024x768.jpeg);
+    background-size: cover;
+    padding: 100px;
+    font-size: 70px;
+}
+
+.imj-navbar{
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 45px;
+}
+
+.tumpeng {
+    width: 500px;
+    margin-left: 90px;
+}
+
+.-navbar {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.p-navbar {
+    margin-left: 40px;
+    margin-right: 50px;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
+
+.lu-navbar{
+    margin-left: 60px;
+    margin-right: 50px;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
+
+.h3-navbar {
+    font-size: 35px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.h4-navbar {
+    font-size: 26px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.hr-navbar {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    width: 1300px;
+}
+
+.logo-navbar {
+    margin: 20px;
+    margin-top: 70px;
+    width: 230px;
+    height: 230px;
+}
+
+.sejarah-navbar {
+    flex-direction: initial;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.li-navbar {
+    list-style-type: none;
+    font-size: 25px;
+    padding: 20px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+a:hover {
+    background-color: white;
+    transition: .2s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.all-foother {
+    background-color: rgb(0, 0, 255);
+    
+}
+
+.img-foother {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: auto;
+}
+
+.fot-foother {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.h5-foother {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.hr-foother {
+    width: 150px;
+    margin-bottom: 10px;
+}
